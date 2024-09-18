@@ -14,8 +14,8 @@ different technologies.
 
 Here's a sneak peek at some of the topics you can expect to find in this repository:
 
-1. [Local LLM Setup Guide]: Step-by-step instructions for setting up a local Large Language Model on 
-your computer.
+https://github.com/d0nuts4ndc0ffee/guides/wiki/How-to-run-a-LLM-on-your-computer
+
 2. [Azure Virtual Machine Tutorial]
 3. [Pi-hole & AdGuard Setup Guides]
    - [Pi-hole]
